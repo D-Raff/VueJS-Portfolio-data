@@ -1,4 +1,7 @@
 {
+  "profilePhoto":{
+    "link":"https://drive.google.com/uc?id=10lrHOC5VSRhxg_9rCn0n36eCpbK6o9Ub"
+  },
   "jobTitle": [
     {
       "title": "developer",
@@ -84,14 +87,20 @@
       "name": "Asithandile",
       "surname": "Tyulu",
       "quotes": "Damon is an exceptional ambitious and charismatic colleague, with an unwavering work ethic. His hardworking nature and remarkable problem-solving skills make him an invaluable asset to any team.",
-      "profile": "TBC"
+      "profile": "https://drive.google.com/uc?id=1ICMedyjBk_m0oZfdWYOkgGcupPobETvs"
     },
-
     {
       "name": "Matthew",
       "surname": "Swain",
       "quotes": "Damon is an outstanding individual, whether is be his work or him as a person. Always pleasant to work with, always promotes positivity.He has unmatched enthusiasm and his determination and drive is out of this world. He has amazing communicative skills and has a cheerful and positive personality that always shines and his passion for what he loves is what will take him to new heights that we all know he can achieve. It is a privilege to have him as a work colleague but mainly as the best companion and closest friend.",
       "profile": "TBC"
+    },
+    {
+      "name": "Muhammad",
+      "surname": "Rajah",
+      "quotes": "Damon is a man of integrity and one of the most adaptable people you will ever meet. He has truly earned my respect as both a colleague and a brother.",
+      "profile": "https://drive.google.com/uc?id=127i1R1a9dc86gFQ1GC0yr_q41qvhbnY9"
+
     }
   ],
   "projects": [
