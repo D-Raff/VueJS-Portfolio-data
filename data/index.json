@@ -37,8 +37,8 @@
     {
       "id": 3,
       "year": 2023,
-      "description": "I Qualified as a Mechanic",
-      "place": "Data Camp",
+      "description": "I Qualified as a Mechanic with 4 years of experience in the workplace, through which I learned valuable soft skills.",
+      "place": "College Of Cape Town and Various Workshops",
       "type": "Qualification",
       "certificate": "TBC"
     },
@@ -46,7 +46,7 @@
       "id": 4,
       "year": 2023,
       "description": "I am currently studying at life choices as a web developer",
-      "place": "Life Choices cademy",
+      "place": "Life Choices Academy",
       "type": "certificate",
       "certificate": "TBC"
     }
