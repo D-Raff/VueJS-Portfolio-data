@@ -65,7 +65,7 @@
     {
       "title": "Bootstrap",
       "experience": "I have been using bootstrap in almost every single project I have created due to efficiency",
-      "logo": ""
+      "logo": "https://i.ibb.co/bK7Y24B/pngwing-com-1.png"
     },
     {
       "title": "Javacsript",
@@ -109,41 +109,47 @@
       "surname": "Nappie",
       "quotes": "I feel privileged to be able to write a testimonial for Damon. During the time I've gotten to know him he has always been a pleasure to work with. I firmly believe he has a natural talent for coding and takes pride in his work. I've seen him persevere through the things he finds challenging and always kept a positive outlook. In addition, Damon has incredible potential for leadership. He is great at communicating his ideas to others and has displayed various other leadership qualities especially in a team capacity. He is always willing to help his peers and would go to any length to make sure others succeed too. I know he will make the most of every role and opportunity presented to him and I look forward to seeing the success he makes of his career.",
       "profile": "https://i.ibb.co/j8s9fh5/IMG-20240111-WA0010.jpg"
+    },
+    {
+      "name": "Unity",
+      "surname": "Demas",
+      "quotes": "Damon is an exemplary colleague, showcasing unparalleled dedication as a hard worker, unwavering reliability in meeting deadlines, and a consistent commitment to going above and beyond, making him an invaluable asset to any team or project.",
+      "profile": "https://i.ibb.co/bmw0VCp/Clipped-image-20240111-083818-1.png"
     }
   ],
   "projects": [
     {
       "name": "To-do List",
       "description": "A simple to-do list built using HTML, CSS, and Javascript.",
-      "image": "https://drive.google.com/uc?id=1WeAtjywc1gfIRZNDwS7-6SvncHeqU0ZF",
+      "image": "https://i.ibb.co/t3550RJ/Screenshot-2024-01-09-135917.png",
       "gitHub": "https://github.com/D-Raff/To-Do-list",
       "netlify": "https://to-do-list-dr.netlify.app/"
     },
     {
       "name": "E-commerce",
       "description": "This is an e-commerce website built using HTML, CSS and Javascript, built as a testiment to my javascript knowledge",
-      "image": "https://drive.google.com/uc?id=1XuafsH1su_Srd6bgMRZlKftpkDK_vW7v",
+      "image": "https://i.ibb.co/MM9jZg6/1.png",
       "gitHub": "https://github.com/D-Raff/Le-Revers-en-Satin",
       "netlify": "https://le-revers-en-satin.netlify.app/"
     },
     {
       "name": "Hex to RGB converter",
       "description": "This is a converter for hex color codes to RGB codes. Built using HTML, CSS and Javascript",
-      "image": "https://drive.google.com/uc?id=1eY9oCGmxVzTk1ZrJqLcnxZWtdXKFNLI7",
+      "image": "https://i.ibb.co/Jyww5k9/Screenshot-2024-01-09-142827.png",
       "gitHub": "https://github.com/D-Raff/HexToRgb",
       "netlify": "https://hex-to-rgb-dr.netlify.app/"
     },
     {
       "name": "Basic Calculator",
       "description": "A simple calculator built using HTML, CSS and Javascript.",
-      "image": "https://drive.google.com/uc?id=1GaUjHnMDcdkKWyDbjDXlAidLIPds9W1P",
+      "image": "https://i.ibb.co/93WWtpV/Screenshot-2024-01-09-142224.png",
       "gitHub": "https://github.com/D-Raff/Calculator",
       "netlify": "https://damon-raffels-calculator.netlify.app/"
     },
     {
       "name": "Html and CSS Portfolio",
       "description": "My portfolio using HTML, CSS and Bootstrap. One of my first projects",
-      "image": "https://drive.google.com/uc?id=1KCwoXCJgM78NjlHEVskZQVt_DrHlllZ3",
+      "image": "https://i.ibb.co/0rx0GdL/Screenshot-2024-01-09-140101.png",
       "gitHub": "https://github.com/D-Raff/My-Portfolio",
       "netlify": "https://damon-raffels-portfolio.netlify.app/"
     }
