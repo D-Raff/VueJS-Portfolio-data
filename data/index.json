@@ -1,7 +1,4 @@
 {
-  "profilePhoto":{
-    "link":"https://drive.google.com/uc?id=10lrHOC5VSRhxg_9rCn0n36eCpbK6o9Ub"
-  },
   "jobTitle": [
     {
       "title": "Developer"
@@ -167,12 +164,11 @@
       "netlify": "https://damon-raffels-portfolio.netlify.app/"
     }
   ],
-  "Contact":
-    {
-      "phone": "0827881888",
-      "email": "damonraffels@gmail.com",
-      "gitHub": "https://github.com/D-Raff",
-      "instagram": "https://www.instagram.com/damon.raffels/",
-      "linkedin": "https://www.linkedin.com/in/damonraffels"
-    }
+  "Contact":[
+    {"phone": "0827881888"},
+    {"email": "damonraffels@gmail.com"},
+    {"gitHub": "https://github.com/D-Raff"},
+    {"instagram": "https://www.instagram.com/damon.raffels/"},
+    {"linkedin": "https://www.linkedin.com/in/damonraffels"}    }
+  ]
 }
