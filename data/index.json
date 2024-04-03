@@ -34,7 +34,7 @@
     {
       "id": 3,
       "year": 2023,
-      "description": "I Qualified as a Mechanic with 4 years of experience in the workplace, through which I learned valuable soft skills.",
+      "description": "I Qualified as a Mechanic with 2 and a half years of experience in the workplace, through which I learned valuable soft skills.",
       "place": "College Of Cape Town and Various Workshops",
       "type": "Qualification",
       "certificate": "TBC"
@@ -46,6 +46,18 @@
       "place": "Life Choices Academy",
       "type": "certificate",
       "certificate": "TBC"
+    }
+  ],
+  "work":[
+    {
+      "year": "April 2024 - Present",
+      "description": "I started at Life Choices studios where I began upscaling myself",
+      "place": "Life Choices Studios"
+    },
+    {
+      "year": "April 2019 - December 2020",
+      "description": "I worked as a mechanic at Classic car consortium, through which I also gained experience in customer relations",
+      "place": "Classic Car Consortium (Previously: Steve Marsh Classic Autos)"
     }
   ],
   "skills": [
