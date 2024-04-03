@@ -65,7 +65,7 @@
       "logo": "https://i.ibb.co/bK7Y24B/pngwing-com-1.png"
     },
     {
-      "title": "Javacsript",
+      "title": "Javascript",
       "experience": "I am knowledgeable with JavaScript with plans to further expand my knowledge of JS and use it to reach new heights in Development",
       "logo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTMTvT8e4xI5qGa-kv7Mbi3V2PgDEZMpWQkNqckpMHH7LzJelTg7CAeogbxCQso1bonLVv9vUTGUTiqopZOIkT5a63O=w1920-h868"
     },
@@ -73,6 +73,11 @@
       "title": "VueJs",
       "experience": "I am proficeint in Vue with Plans to further increase my knowledge and skill in it",
       "logo": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYRnNSi2rPK1i-odlkQz4Mkgy96I3XU8jp7naBNKZnqzytJk5mF_iYY3ZozmD7qLiuzr8qw70yY4ZqCpG9eTkyH9jraQ_Q=w1920-h868"
+    },
+    {
+      "title": "NodeJs",
+      "experience": "I am well versed in Node with the prospect of growing my knowledge of it",
+      "logo": "https://iili.io/JNT6Kts.png"
     }
   ],
   "testimonials": [
@@ -126,42 +131,42 @@
       "description": "A simple to-do list built using HTML, CSS, and Javascript.",
       "image": "https://i.ibb.co/t3550RJ/Screenshot-2024-01-09-135917.png",
       "gitHub": "https://github.com/D-Raff/To-Do-list",
-      "netlify": "https://to-do-list-dr.netlify.app/"
+      "link": "https://to-do-list-dr.netlify.app/"
     },
     {
       "name": "E-commerce",
       "description": "This is an e-commerce website built using HTML, CSS and Javascript, built as a testiment to my javascript knowledge",
       "image": "https://i.ibb.co/MM9jZg6/1.png",
       "gitHub": "https://github.com/D-Raff/Le-Revers-en-Satin",
-      "netlify": "https://le-revers-en-satin.netlify.app/"
+      "link": "https://le-revers-en-satin.netlify.app/"
     },
     {
       "name": "Hex to RGB converter",
       "description": "This is a converter for hex color codes to RGB codes. Built using HTML, CSS and Javascript",
       "image": "https://i.ibb.co/Jyww5k9/Screenshot-2024-01-09-142827.png",
       "gitHub": "https://github.com/D-Raff/HexToRgb",
-      "netlify": "https://hex-to-rgb-dr.netlify.app/"
+      "link": "https://hex-to-rgb-dr.netlify.app/"
     },
     {
       "name": "Basic Calculator",
       "description": "A simple calculator built using HTML, CSS and Javascript.",
       "image": "https://i.ibb.co/93WWtpV/Screenshot-2024-01-09-142224.png",
       "gitHub": "https://github.com/D-Raff/Calculator",
-      "netlify": "https://damon-raffels-calculator.netlify.app/"
+      "link": "https://damon-raffels-calculator.netlify.app/"
     },
     {
       "name": "Workshop Website",
       "description": "A website for a future project of mine. built with HTML, CSS and Javascript",
       "image": "https://i.ibb.co/Y2KVcqz/Screenshot-2024-01-09-140302.png",
       "gitHub": "https://github.com/D-Raff/e-commerce-website",
-      "netlify": "https://wolfspeed-performance.netlify.app/"
+      "link": "https://wolfspeed-performance.netlify.app/"
     },
     {
-      "name": "Html and CSS Portfolio",
-      "description": "My portfolio using HTML, CSS and Bootstrap. One of my first projects",
-      "image": "https://i.ibb.co/0rx0GdL/Screenshot-2024-01-09-140101.png",
-      "gitHub": "https://github.com/D-Raff/My-Portfolio",
-      "netlify": "https://damon-raffels-portfolio.netlify.app/"
+      "name": "ArcHub",
+      "description": "My capstone project at LifeChoices Academy, combining all the skills I have acquired there",
+      "image": "https://iili.io/JNTic8B.png",
+      "gitHub": "https://github.com/D-Raff/ArcHub",
+      "link": "https://archub-61ccd.web.app/"
     }
   ],
   "Contact":[
