@@ -146,7 +146,7 @@
       "link": "https://to-do-list-dr.netlify.app/"
     },
     {
-      "name": "E-commerce",
+      "name": "Le-revers-en-satin",
       "description": "This is an e-commerce website built using HTML, CSS and Javascript, built as a testiment to my javascript knowledge",
       "image": "https://i.ibb.co/MM9jZg6/1.png",
       "gitHub": "https://github.com/D-Raff/Le-Revers-en-Satin",
@@ -160,11 +160,11 @@
       "link": "https://hex-to-rgb-dr.netlify.app/"
     },
     {
-      "name": "Basic Calculator",
-      "description": "A simple calculator built using HTML, CSS and Javascript.",
-      "image": "https://i.ibb.co/93WWtpV/Screenshot-2024-01-09-142224.png",
-      "gitHub": "https://github.com/D-Raff/Calculator",
-      "link": "https://damon-raffels-calculator.netlify.app/"
+      "name": "Caliber Craft",
+      "description": "A joint project, in which the front-end was done by myself",
+      "image": "https://iili.io/JNSXrbI.png",
+      "gitHub": "https://github.com/daanyaalkellerman/CaliberCraft",
+      "link": "https://caliber-craft.web.app/"
     },
     {
       "name": "Workshop Website",
