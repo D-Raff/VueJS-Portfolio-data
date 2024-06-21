@@ -97,6 +97,24 @@
       "logo": "https://iili.io/JNT6Kts.png"
     }
   ],
+  "Badges": [
+    {
+      "title": "Cisco OS Basics",
+      "badge": "https://iili.io/dH0B2CF.png"
+    },
+    {
+      "title": "Cisco Network Technician Career Path",
+      "badge": "https://iili.io/dH0BJQ1.png"
+    },
+    {
+      "title": "LC Studios Scrum Principles",
+      "badge": "https://iili.io/dH0B3Eg.png"
+    },
+    {
+      "title": "Linux Basics",
+      "badge": "https://iili.io/dH0BGn9.jpg"
+    },
+  ],
   "testimonials": [
     {
       "name": "Joel",
