@@ -152,14 +152,14 @@
     },
     {
       "name": "Le-revers-en-satin",
-      "description": "This is an e-commerce website built using HTML, CSS and Javascript, built as a testiment to my javascript knowledge",
+      "description": "This is an e-commerce website, built in an early coding challenge, for a fictional business that creates Bespoke, high-end clothing (currently rebuilding)",
       "image": "https://i.ibb.co/MM9jZg6/1.png",
       "gitHub": "https://github.com/D-Raff/Le-Revers-en-Satin",
       "link": "https://le-revers-en-satin.netlify.app/"
     },
     {
       "name": "Hex to RGB converter",
-      "description": "This is a converter for hex color codes to RGB codes. Built using HTML, CSS and Javascript",
+      "description": "This is a simple converter for hex color codes to RGB codes. Built using HTML, CSS and Javascript",
       "image": "https://i.ibb.co/Jyww5k9/Screenshot-2024-01-09-142827.png",
       "gitHub": "https://github.com/D-Raff/HexToRgb",
       "link": "https://hex-to-rgb-dr.netlify.app/"
@@ -170,13 +170,6 @@
       "image": "https://iili.io/JNSXrbI.png",
       "gitHub": "https://github.com/daanyaalkellerman/CaliberCraft",
       "link": "https://caliber-craft.web.app/"
-    },
-    {
-      "name": "Workshop Website",
-      "description": "A website for a future project of mine. built with HTML, CSS and Javascript",
-      "image": "https://i.ibb.co/Y2KVcqz/Screenshot-2024-01-09-140302.png",
-      "gitHub": "https://github.com/D-Raff/e-commerce-website",
-      "link": "https://wolfspeed-performance.netlify.app/"
     },
     {
       "name": "ArcHub",
