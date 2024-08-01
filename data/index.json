@@ -145,11 +145,11 @@
   ],
   "projects": [
     {
-      "name": "To-do List",
-      "description": "A simple to-do list built using HTML, CSS, and Javascript.",
-      "image": "https://i.ibb.co/t3550RJ/Screenshot-2024-01-09-135917.png",
-      "gitHub": "https://github.com/D-Raff/To-Do-list",
-      "link": "https://to-do-list-dr.netlify.app/"
+      "name": "Weather Or Not",
+      "description": "My first python app, built using Openweathermap, flask, html and css",
+      "image": "https://iili.io/dAfsr91.png",
+      "gitHub": "https://github.com/D-Raff/Weather-or-Not",
+      "link": "https://weather-or-not-blue.vercel.app/"
     },
     {
       "name": "Le-revers-en-satin",
