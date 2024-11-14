@@ -43,7 +43,7 @@
     {
       "id": 4,
       "year": 2023,
-      "description": "I am currently studying at life choices as a web developer",
+      "description": "I studied at life choices coding academy as a web developer, learning multiple front-end and back-end technologies in order to create fully functioning websites",
       "place": "Life Choices Academy",
       "type": "certificate",
       "certificate": "TBC"
@@ -51,8 +51,8 @@
   ],
   "work":[
     {
-      "year": "April 2024 - Present",
-      "description": "I started at Life Choices studios where I began upskilling myself",
+      "year": "April 2024 - September 2024",
+      "description": "I started at Life Choices studios where I began creating websites consisting of front-end and backend technologies and functionality, capturing and manipulating data for websites using mySQL, upskilling myself and collaborating with other team members in an agile environment in order to complete medium size projects",
       "place": "Life Choices Studios"
     },
     {
