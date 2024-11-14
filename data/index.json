@@ -51,8 +51,13 @@
   ],
   "work":[
     {
+      "year": "October 2024 - December 2024",
+      "description": "example text for the moment",
+      "place": "Panthera Conservation"
+    },
+    {
       "year": "April 2024 - September 2024",
-      "description": "I started at Life Choices studios where I began creating websites consisting of front-end and backend technologies and functionality, capturing and manipulating data for websites using mySQL, upskilling myself and collaborating with other team members in an agile environment in order to complete medium size projects",
+      "description": "I joined Life Choices studios where I began creating websites consisting of front-end and backend technologies and functionality, capturing and manipulating data for websites using mySQL, upskilling myself and collaborating with other team members in an agile environment in order to complete medium size projects",
       "place": "Life Choices Studios"
     },
     {
