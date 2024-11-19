@@ -53,16 +53,18 @@
     {
       "year": "October 2024 - December 2024",
       "description": "example text for the moment",
-      "place": "Panthera Conservation"
+      "place": "Panthera Conservation",
+      "skills": ["R", "SQL"]
     },
     {
       "year": "April 2024 - September 2024",
       "description": "I joined Life Choices studios where I began creating websites consisting of front-end and backend technologies and functionality, capturing and manipulating data for websites using mySQL, upskilling myself and collaborating with other team members in an agile environment in order to complete medium size projects",
-      "place": "Life Choices Studios"
+      "place": "Life Choices Studios",
+      "skills": ["HTML5", "CSS3", "JavaScript", "Vuejs", "MySQL", "Nodejs", "WordPress"]
     },
     {
       "year": "April 2019 - December 2020",
-      "description": "I worked as a mechanic at Classic car consortium, through which I also gained experience in customer relations",
+      "description": "I worked as an Automotive technician at Classic car consortium, through which I also gained experience in customer relations and inventory management",
       "place": "Classic Car Consortium (Previously: Steve Marsh Classic Autos)"
     }
   ],
