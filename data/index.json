@@ -51,10 +51,16 @@
   ],
   "work":[
     {
-      "year": "October 2024 - December 2024",
-      "description": "example text for the moment",
+      "year": "January 2025 - June 2025",
+      "description": "I continued my journey at Panthera, being signed on as a junior QA tester",
       "place": "Panthera Conservation",
-      "skills": ["R", "SQL"]
+      "skills": ["R", "SQL", "R Shiny"]
+    },
+    {
+      "year": "October 2024 - December 2024",
+      "description": "I worked at Panthera conservation as a QA intern, ensuring that the quality of work produced is of a high standard. As well as doing various maintenence tasks, creating documention and various ui tasks using R shiny",
+      "place": "Panthera Conservation",
+      "skills": ["R", "SQL", "R Shiny"]
     },
     {
       "year": "April 2024 - September 2024",
