@@ -10,12 +10,12 @@
       "title": "Programmer"
     }
   ],
-  "about": [{
+  "about": [
     "I’ve gained hands-on experience across web development, software testing, and quality assurance—building a strong foundation in both development and QA processes.",
     "I began my journey at Life Choices, developeing full-stack web applications using front-end and back-end technologies. I worked extensively with MySQL for data management and collaborated in an agile team environment to deliver medium-scale projects.",
     "I joined Panthera Conservation as a QA Intern, where I contributed to maintaining and improving software quality. I worked with R, SQL, and R Shiny, creating documentation, performing maintenance tasks, and building user interface components.",
     "By January 2025, I advanced to Junior QA Tester at Panthera, where I expanded my responsibilities to include automated testing and user support. I developed Selenium scripts for front-end test automation and maintained unit tests using the testthat framework in R, helping streamline the company’s testing workflow and improve software reliability."
-    }],
+    ],
   "education": [
     {
       "id": 1,
