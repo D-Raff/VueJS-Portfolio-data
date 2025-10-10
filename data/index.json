@@ -52,7 +52,7 @@
   ],
   "work":[
     {
-      "year": "January 2025 - June 2025",
+      "year": "January 2025 - December 2025",
       "description": "I continued my journey at Panthera, being signed on as a junior QA tester while also providing support to users for the company specific software. While at Panthera I created Selenium scripts to automate front-end testing for features and bug fixes and also maintained and fixed unit tests built using the testthat framework",
       "place": "Panthera Conservation",
       "skills": ["R", "SQL", "R Shiny", "Selenium", "Testthat"]
