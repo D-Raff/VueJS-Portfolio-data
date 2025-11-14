@@ -195,11 +195,26 @@
     }
   ],
   "Contact":[
-    {"phone": "0827881888"},
-    {"email": "damonraffels@gmail.com"},
-    {"gitHub": "https://github.com/D-Raff"},
-    {"instagram": "https://www.instagram.com/damon.raffels/"},
-    {"linkedin": "https://www.linkedin.com/in/damonraffels"}
+    {
+      "link": "0827881888",
+      "logo": "blank"
+    },
+    {
+      "link": "damonraffels@gmail.com",
+      "logo": "https://iili.io/f905Q1t.png"
+    },
+    {
+      "link": "https://github.com/D-Raff",
+      "logo": "https://iili.io/f90BkQa.png"
+    },
+    {
+      "link": "https://www.instagram.com/damon.raffels/",
+      "logo": "https://iili.io/f9lD1se.png"
+    },
+    {
+      "link": "https://www.linkedin.com/in/damonraffels",
+      "logo": "https://iili.io/f9lYUTx.png"
+    }
   ],
   "Badges": [
     {
